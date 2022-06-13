@@ -46,6 +46,7 @@ Fusarium_venenatum
 
 ![alt text](zhunt_500/z_4.png)
 
+
 Fusarium_verticillioides_7600
 
 ![alt text](zhunt_500/z_5.png)
@@ -64,4 +65,25 @@ Fusarium_verticillioides_7600
 
 ## Задание 3. Ассоциация предсказанных участков Z-DNA с промотерами генов
 
+Fusarium_musae
 
+![alt text](Визуализация_1/z_1.png)
+
+Fusarium_poae
+
+![alt text](Визуализация_1/z_2.png)
+
+
+Fusarium_pseudograminearum_CS3096
+
+![alt text](Визуализация_1/z_3.png)
+
+
+Fusarium_venenatum
+
+![alt text](Визуализация_1/z_4.png)
+
+
+Fusarium_verticillioides_7600
+
+![alt text](Визуализация_1/z_5.png)
