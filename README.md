@@ -102,6 +102,7 @@ Fusarium_verticillioides_7600
 
 ### Clustal
 
+Полный файлы в папке fasta
 
 ![alt text](cl_picture/cl_1.png)
 ![alt text](cl_picture/cl_2.png)
