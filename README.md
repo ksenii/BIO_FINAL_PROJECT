@@ -23,5 +23,15 @@
 
 **Данные**
 
-
 ![alt text](table_2.png)
+
+**ZH-score > 500**
+
+
+**Гистограммы значений zh-score для всех геномов, полученных с помощью Zhunt**
+
+![alt text](z_graph/gr_1.png)
+![alt text](z_graph/gr_2.png)
+![alt text](z_graph/gr_3.png)
+![alt text](z_graph/gr_4.png)
+![alt text](z_graph/gr_5.png)
