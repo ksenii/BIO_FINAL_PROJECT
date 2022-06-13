@@ -1,6 +1,6 @@
 # BIO_FINAL_PROJECT
 
-Ссылка на Google Collab:
+Ссылка на Google Collab: https://colab.research.google.com/drive/1P427y2PyMykLUq0_3LEhbfLVZjTMGQE4?usp=sharing
 
 Часть файлов, размер который позволяет быть расположены в Github, смотри выше.
 
