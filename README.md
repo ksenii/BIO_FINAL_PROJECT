@@ -99,3 +99,12 @@ Fusarium_verticillioides_7600
 ![alt text](cl_graph/gr_4.png)
 ![alt text](cl_graph/gr_5.png)
 ![alt text](cl_graph/gr_6.png)
+
+### Clustal
+
+
+![alt text](cl_picture/cl_1.png)
+![alt text](cl_picture/cl_2.png)
+![alt text](cl_picture/cl_3.png)
+![alt text](cl_picture/cl_4.png)
+![alt text](cl_picture/cl_5.png)
