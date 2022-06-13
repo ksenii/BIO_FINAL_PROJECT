@@ -61,3 +61,7 @@ Fusarium_verticillioides_7600
 ![alt text](z_graph/gr_4.png)
 
 ![alt text](z_graph/gr_5.png)
+
+## Задание 3. Ассоциация предсказанных участков Z-DNA с промотерами генов
+
+
