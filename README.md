@@ -67,6 +67,10 @@ Fusarium_verticillioides_7600
 
 ### **Данные**
 
+
+Количество кластеров
+table_4.png
+
 Выбранные данные:
 ![alt text](table_4.png)
 
