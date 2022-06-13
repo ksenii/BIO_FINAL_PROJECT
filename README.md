@@ -89,3 +89,13 @@ Fusarium_venenatum
 Fusarium_verticillioides_7600
 
 ![alt text](Визуализация_1/z_5.png)
+
+
+### Гистограмма кластеров
+
+![alt text](cl_graph/gr_1.png)
+![alt text](cl_graph/gr_2.png)
+![alt text](cl_graph/gr_3.png)
+![alt text](cl_graph/gr_4.png)
+![alt text](cl_graph/gr_5.png)
+![alt text](cl_graph/gr_6.png)
