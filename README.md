@@ -9,7 +9,7 @@
 
 ## Часть №1 Анализ аннотированных генов 
 
-**Данные**
+### **Данные**
 1) Название вида
 2) Количество последовательностей в геноме
 3) Общая длина этих последовательностей
@@ -21,19 +21,32 @@
 ## Часть №2 Ассоциируем предсказанные участки Z-DNA
 
 
-**Данные**
+### **Данные**
 
 ![alt text](table_2.png)
 
-**ZH-score > 500**
+### **ZH-score > 500**
+
+Fusarium_musae
 
 ![alt text](zhunt_500/z_1.png)
 
+
+Fusarium_poae
+
 ![alt text](zhunt_500/z_2.png)
+
+
+Fusarium_pseudograminearum_CS3096
 
 ![alt text](zhunt_500/z_3.png)
 
+
+Fusarium_venenatum
+
 ![alt text](zhunt_500/z_4.png)
+
+Fusarium_verticillioides_7600
 
 ![alt text](zhunt_500/z_5.png)
 
