@@ -108,3 +108,31 @@ Fusarium_verticillioides_7600
 ![alt text](cl_picture/cl_3.png)
 ![alt text](cl_picture/cl_4.png)
 ![alt text](cl_picture/cl_5.png)
+
+
+
+### Визуализация
+
+Clust 1
+
+![alt text](Визуализация_2/gr_1.png)
+
+Clust 2
+
+![alt text](Визуализация_2/gr_2.png)
+
+
+Clust 3
+
+![alt text](Визуализация_2/gr_3.png)
+
+
+Clust 4
+
+![alt text](Визуализация_2/gr_4.png)
+
+
+
+Clust 5
+
+![alt text](Визуализация_2/gr_5.png)
